@@ -10,7 +10,7 @@
 }
 .Logo{
     vertical-align: middle;
-}
+    }
 .header-wrapper{
     padding: 68px 0 68px 162px;
     }
@@ -117,7 +117,211 @@
 .block-title{
     font-size: 25px;
     margin: 29px 0 0 22px;
-
 }
 
+/* about html is stylebi !!! */
+
+.div-Baner{
+    width: 1920px;
+    height: 450px;
+    margin-top: 73px;
+    
+}
+.service{
+    width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+    
+}
+.div-surati{
+    width: 1400px;
+    height: 934px;
+    padding-top: 96px;
+    margin: 0   auto;
+    
+}
+
+.satauri-about{
+    font-family: 'Roboto-bold';
+    font-size: 50px;
+    color: #274C5B;
+    width: 517px;
+    height: 59px;
+    padding-left: 492px;
+    
+}
+.satauris-agcera-div{
+    width: 936px;
+    margin-bottom: 18px;
+}
+.suratis-agcera1{
+    font-family: 'Open Sans';
+    font-size: 18px;
+    color: #525C60;
+    padding-left: 492px;
+    width: 936px;
+}
+.suratis-agcera2{
+    font-family: 'Open Sans';
+    font-size: 18px;
+    color: #525C60;
+    padding-left: 492px;
+    margin-bottom: 70px;
+    width: 936px;
+    
+}
+.satauri-about{
+    margin-bottom: 28px;  
+}
+.khelebi{
+    display: inline-block;
+    width: 476px;
+    height: 358px;
+    padding-left: 492px;
+}
+.khelebi2{
+    display: inline-block;
+    width: 537px;
+    vertical-align: top;
+    }
+    .khelebis-sat{
+    font-family: 'Roboto-bold';
+    font-size: 25px;
+    color: #274C5B;
+    padding-top: 99px;
+    padding-left: 45px;   
+    }
+    .khelebis-agcera{
+    font-family: 'Open Sans';
+    font-size: 18px;
+    color: #525C60;
+    padding-left: 45px;
+    margin-top: 7px;
+
+    }
+    /* meore suratiani agcera */
+    .qotnebi{
+        display: inline-block;
+        width: 537px;
+        padding-left: 492px;
+        vertical-align: top;
+    }
+    .qotnebi-title{
+    font-family: 'Roboto-bold';
+    font-size: 25px;
+    color: #274C5B;
+    margin-bottom: 7px;
+    padding-left: 45px;
+    padding-top: 63px;
+    
+    }
+    .qotnebi-agcera{
+    font-family: 'Open Sans';
+    font-size: 18px;
+    color: #525C60;  
+    padding-left: 45px;  
+    }
+    .suratiqotnebi{
+        display: inline-block;
+        width: 420px;
+        height: 280px;
+        margin-left: 45px;
+    }
+    .title-about{
+    font-family: 'Roboto-bold';
+    font-size: 35px;
+    color: #274C5B;
+    padding-left: 492px;
+    margin-top: 70px;
+    margin-bottom: 11px;   
+    }
+    .agcera-about{
+     font-family: 'Open Sans';
+     font-size: 18px;
+     color: #525C60;
+     padding-left: 492px; 
+     width: 936px;   
+    }
+    .limoni-div{
+     display: inline-block;
+    }
+    .limoni{
+     padding-left: 260px;
+     margin-top: 97px;
+     width: 1400px;
+     height: 323px;   
+    }
+    /* footer styles */
+    .footer{
+        width: 1920px;
+        height: 416px;
+    }
+    .Pages{
+    font-family: 'Roboto-bold';
+    font-size: 30px;
+    color: #274C5B;
+    margin-top: 60px;
+    display: inline-block;
+    margin-left: 315px;
+      
+     
+    }
+    .contact-div{
+    display: inline-block;    
+    padding-left: 261px;
+    margin-top: 33px; 
+    width: 285px;   
+    }
+    .li1{
+        margin-bottom: 7px;
+    }
+    .li2{
+    margin-bottom: 7px;     
+    }
+    .li-img{
+        display: inline-block;
+        margin-left: 456px;
+        margin-top: 70px;
+    }
+    .contactus-title{
+    display: inline-block;
+    font-family: 'Roboto-bold';
+    font-size: 30px;
+    color: #274C5B;
+    padding-left: 255px;
+    margin-top: 60px;    
+    }
+    .p-footer{
+        display: inline-block;
+        width: 543px;
+        color: #525C60;
+        font-size: 18px;
+        font-family: 'Open Sans';
+        padding-left: 142px;
+        vertical-align: top;
+        margin-top: 27px;
+
+    }
+    .Pages-desc{
+        font-size: 18px;
+        width: 285px;
+        font-family: 'Open Sans';
+        color: #525C60;
+        display: inline-block;
+        margin-left: 143px;
+        margin-top: 24px;
+    }
+    .bolo-p{
+        text-align: center;
+        margin-top: 250px;
+        font-size: 18px;
+        color: #525C60;
+        font-family: 'Open Sans';
+    }
+    
+        
+
+    
+    
+     
 
